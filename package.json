@@ -1,0 +1,24 @@
+{
+  "name": "pottymouth",
+  "version": "1.0.0",
+  "description": "discord bot to make poop noises when user talks ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estrellar/potty_mouth_bot.git"
+  },
+  "keywords": [
+    "poop",
+    "bot",
+    "discord"
+  ],
+  "author": "estrellar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estrellar/potty_mouth_bot/issues"
+  },
+  "homepage": "https://github.com/estrellar/potty_mouth_bot#readme"
+}
