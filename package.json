@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/estrellar/potty_mouth_bot/issues"
   },
-  "homepage": "https://github.com/estrellar/potty_mouth_bot#readme"
+  "homepage": "https://github.com/estrellar/potty_mouth_bot#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.0",
+    "node-opus": "^0.3.3"
+  },
+  "devDependencies": {}
 }
