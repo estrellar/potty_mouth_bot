@@ -23,7 +23,7 @@
   "homepage": "https://github.com/estrellar/potty_mouth_bot#readme",
   "dependencies": {
     "bufferutil": "^4.0.1",
-    "discord.js": "^11.5.0",
+    "discord.js": "discordjs/discord.js#11.5-dev",
     "node-opus": "^0.3.3"
   },
   "devDependencies": {}
